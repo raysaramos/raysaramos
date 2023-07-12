@@ -1,8 +1,7 @@
 ### Olá! Eu sou a Raysa Ramos 👋
 
 - 🔭 Hoje trabalho com RPA
-- 🌱 Estudando Cloud
-- 😄 Pronouns: ela/dela
+- 🌱 Certified Cloud Practitioner
 
 </div>
 <div style="display: inline_block"><br>
